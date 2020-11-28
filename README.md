@@ -2,7 +2,9 @@
 
 A golang package for reading config file
 
-`import "."`
+# Import package
+
+`import "github.com/minph/conf"`
 
 - [Overview](#pkg-overview)
 - [Index](#pkg-index)
